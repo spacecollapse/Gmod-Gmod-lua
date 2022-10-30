@@ -16,6 +16,17 @@ OneTap на гарис мод
 
 Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/LemiGmod.dll
 
+# uniplus
+
+![image](https://user-images.githubusercontent.com/53594431/198866321-8879d8b9-672d-42dc-a9ac-ba2aa9874fdb.png)
+
+
+
+
+
+скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/uniplus.dll
+
+
 
 # lua
 
