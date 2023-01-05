@@ -22,11 +22,21 @@ OneTap на гарис мод
 
 
 
-
-
 скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/uniplus.dll
 
+# Memoriam
 
+![image](https://user-images.githubusercontent.com/53594431/210783874-da6cd430-c451-41d9-b4af-8f7d73f13892.png)
+
+
+Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/Memoriam.dll
+
+# Never
+
+![image](https://user-images.githubusercontent.com/53594431/210784197-8ec8ce11-16f1-48c5-ad7a-dcfa29c8c9a2.png)
+
+
+Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/Never.dll
 
 # lua
 
