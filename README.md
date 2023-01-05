@@ -1,13 +1,3 @@
-# Onetap
-
-OneTap на гарис мод
-
-![image](https://user-images.githubusercontent.com/53594431/198865873-a13f7832-03aa-43f6-a050-d11553d6ea0e.png)
-
-
-Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/Onetap.dll
-
-
 # LemiGmod
 
 ![image](https://user-images.githubusercontent.com/53594431/198865901-c3ad70b3-2df9-450b-a06d-33a12ff75fa5.png)
@@ -23,6 +13,28 @@ OneTap на гарис мод
 
 
 скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/uniplus.dll
+
+# Важно!
+
+Для трёх читов ниже нужно установить x64 версию Garrys mod 
+
+![image](https://user-images.githubusercontent.com/53594431/210784411-6c3e6227-12a0-4c87-ba3c-ec184bf1e0a7.png)
+
+Нажимаете пкм по гмоду в стиме и делаете как на скрине, далее запускаете гмод
+
+![image](https://user-images.githubusercontent.com/53594431/210784520-0faefc31-40a6-40ac-9ef5-0ac96d522dcf.png)
+
+
+
+
+# Onetap
+
+OneTap на гарис мод
+
+![image](https://user-images.githubusercontent.com/53594431/198865873-a13f7832-03aa-43f6-a050-d11553d6ea0e.png)
+
+
+Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/Onetap.dll
 
 # Memoriam
 
