@@ -36,6 +36,10 @@ OneTap на гарис мод
 
 Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/Onetap.dll
 
+Кфг - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/1.otc
+
+Кидать по пути - C:\Users\Admin\AppData\Roaming
+
 # Memoriam
 
 ![image](https://user-images.githubusercontent.com/53594431/210783874-da6cd430-c451-41d9-b4af-8f7d73f13892.png)
