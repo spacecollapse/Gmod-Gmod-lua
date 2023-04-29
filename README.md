@@ -4,7 +4,7 @@
 
 
 
-Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/LemiGmod.dll
+Скачать - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/LemiGmod.dll
 
 # uniplus
 
@@ -12,7 +12,7 @@
 
 
 
-скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/uniplus.dll
+скачать - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/uniplus.dll
 
 # Важно!
 
@@ -34,9 +34,9 @@ OneTap на гарис мод
 ![image](https://user-images.githubusercontent.com/53594431/198865873-a13f7832-03aa-43f6-a050-d11553d6ea0e.png)
 
 
-Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/Onetap.dll
+Скачать - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/Onetap.dll
 
-Кфг - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/1.otc
+Кфг - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/1.otc
 
 Кидать по пути - C:\Users\Admin\AppData\Roaming
 
@@ -45,14 +45,14 @@ OneTap на гарис мод
 ![image](https://user-images.githubusercontent.com/53594431/210783874-da6cd430-c451-41d9-b4af-8f7d73f13892.png)
 
 
-Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/Memoriam.dll
+Скачать - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/Memoriam.dll
 
 # Never
 
 ![image](https://user-images.githubusercontent.com/53594431/210784197-8ec8ce11-16f1-48c5-ad7a-dcfa29c8c9a2.png)
 
 
-Скачать - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/Never.dll
+Скачать - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/Never.dll
 
 # lua
 
@@ -61,6 +61,6 @@ OneTap на гарис мод
 
 
 
-Пак луашек на гмод - https://github.com/defoxxx/Gmod-Gmod-lua/releases/download/gmod/default.rar
+Пак луашек на гмод - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/default.rar
 
 
