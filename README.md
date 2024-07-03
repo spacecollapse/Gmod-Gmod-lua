@@ -1,14 +1,3 @@
-# FriendlyHack
-
-![image](https://github.com/spacecollapse/Gmod-Gmod-lua/assets/53594431/c4539394-b26c-42c2-ae19-bf5aef03d5bb)
-
-
-Скачать - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/gmod_.dll
-
-кфг - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/legit1.cfg
-
-кидать по пути - C:\friendlyhack\cfg
-
 # Важно!
 
 Для читов нужно установить x64 версию Garrys mod 
