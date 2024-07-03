@@ -2,7 +2,8 @@
 
 Для читов нужно установить x64 версию Garrys mod 
 
-![image](https://user-images.githubusercontent.com/53594431/210784411-6c3e6227-12a0-4c87-ba3c-ec184bf1e0a7.png)
+![image](https://github.com/spacecollapse/Gmod-Gmod-lua/assets/53594431/eea62ba0-cd59-4212-b5cd-6932bf7d89b8)
+
 
 Нажимаете пкм по гмоду в стиме и делаете как на скрине, далее запускаете гмод
 
