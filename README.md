@@ -3,7 +3,8 @@
 ![image](https://github.com/user-attachments/assets/b5e953a8-b666-4e16-89c5-2ffdef6ac089)
 
 
-Скачать - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/fr.dll
+Скачать - https://github.com/spacecollapse/Gmod-Gmod-lua/releases/download/gmod/fruack.dll
+
 # Важно!
 
 Для читов нужно установить x64 версию Garrys mod 
